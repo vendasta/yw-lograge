@@ -1,0 +1,6 @@
+services:
+  - name: yw-lograge
+    owner: honey-badger
+    language: ruby
+    nonServiceType: library
+    description: "An attempt to tame Rails' default policy to log everything."
